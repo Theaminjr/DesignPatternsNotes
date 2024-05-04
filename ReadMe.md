@@ -92,7 +92,7 @@ class Mongodb(DatabaseBase):
     def add(self):
         pass
 
-class Login:
+class SignUp:
     def __init__(self,database:DatabaseBase) -> None:
         dataBase = dataBase
 
